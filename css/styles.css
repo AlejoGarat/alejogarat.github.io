@@ -73,6 +73,12 @@ body {
   outline: 0 !important;
 }
 
+.myPicture {
+  border-radius: 50%;
+  width: 20%;
+  margin-top: 10px;
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
