@@ -1,33 +1,35 @@
 # Bachelor in Software Engineering
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## About Me
+
+I am a Computer Engineering student at Universidad ORT, currently in the final stages of completing my thesis titled "Analysis, Evaluation and Improvement of Active Regular Inference Algorithms for Neural Sequence Acceptors". Simultaneously, I hold the position of an Artificial Intelligence lecturer at the same university. With a keen interest in AI and Machine Learning, my goal is to apply my skills and knowledge to create innovative and impactful solutions for real-world problems. I consider myself hardworking and maintain a spirit of daily self-improvement, striving to enhance my capabilities consistently.
 
 ## Education
+- B.S., Computer Engineering student | Universidad ORT Uruguay 
 - B.S., Software Engineering | Universidad ORT Uruguay (_Mar 2023_)
 
 ## Work Experience
 **Lecturer @ Universidad ORT Uruguay (_Aug 2021 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Lead weekly Artificial Intelligence practical courses utilizing Python to teach practical lessons on subjects like Q-learning and Minimax.
+- Instructed students in Data Structures and Algorithms courses, covering both theoretical analysis and C++ programming.
+- Delivered courses in Haskell for Logic and Discrete Mathematics.
 
 **Backend Developer @ SHOWX (_May 2023 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Leading the gradual migration of data from a NoSQL database to a SQL database.
+- Responsible for designing the database tables, developing functionalities, and deploying them.
+- Technologies used include Golang, JavaScript, PostgreSQL, PostGIS, Firebase, and Google Cloud.
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### GraphRNNAutomaton
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Utilized a GraphRNN architecture to generate Deterministic Finite Automata (DFA) with specific properties.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### RAG Chatbot
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+The RAG Chatbot is an application that utilizes the RAG (Retrieval-Augmented Generation) architecture to provide responses to user queries. The RAG architecture enhances the capabilities of large language models (LLMs) by augmenting their knowledge with additional contextual data. This chatbot is implemented using FastAPI, a modern web framework for building APIs with Python. It leverages the LangChain library, which provides tools and utilities for natural language processing tasks. Specifically, it uses LangChain's Runnable interfaces to orchestrate the RAG architecture.
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+### Neural Checker
 
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
+Its main goal is to provide implementations for the structures needed for working in the Model Extraction Framework and enable the explainability and checking of complex systems in a black box context. It is developed by the Artificial Intelligence and Big Data team of Universidad ORT Uruguay.
