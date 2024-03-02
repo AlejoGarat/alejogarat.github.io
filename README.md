@@ -24,9 +24,9 @@ I am a Computer Engineering student at Universidad ORT, currently in the final s
 
 Utilized a GraphRNN architecture to generate Deterministic Finite Automata (DFA) with specific properties.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### RAG Chatbot
+
+![image](https://github.com/AlejoGarat/alejogarat.github.io/assets/70347144/1e2a87ca-67da-4f65-9948-789d0d3431af)
 
 The RAG Chatbot is an application that utilizes the RAG (Retrieval-Augmented Generation) architecture to provide responses to user queries. The RAG architecture enhances the capabilities of large language models (LLMs) by augmenting their knowledge with additional contextual data. This chatbot is implemented using FastAPI, a modern web framework for building APIs with Python. It leverages the LangChain library, which provides tools and utilities for natural language processing tasks. Specifically, it uses LangChain's Runnable interfaces to orchestrate the RAG architecture.
 
