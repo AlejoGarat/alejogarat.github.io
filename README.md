@@ -33,3 +33,7 @@ The RAG Chatbot is an application that utilizes the RAG (Retrieval-Augmented Gen
 ### Neural Checker
 
 Its main goal is to provide implementations for the structures needed for working in the Model Extraction Framework and enable the explainability and checking of complex systems in a black box context. It is developed by the Artificial Intelligence and Big Data team of Universidad ORT Uruguay.
+
+## Publications
+
+1. Mayr, Franz, Sergio Yovine, Matías Carrasco, Alejo Garat, Martín Iturbide, Juan da Silva, and Federico Vilensky. "Results of Neural-Checker Toolbox in Taysir 2023 Competition," in Proceedings of 16th edition of the International Conference on Grammatical Inference, eds. François Coste, Faissal Ouardi, and Guillaume Rabusseau, vol. 217, pp. 295-298, PMLR, Jul 10-13, 2023. https://proceedings.mlr.press/v217/mayr23b.html. 
