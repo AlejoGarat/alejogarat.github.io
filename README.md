@@ -17,7 +17,7 @@ I am a Computer Engineering student at Universidad ORT, currently in the final s
 - Instructed students in Data Structures and Algorithms courses, covering both theoretical analysis and C++ programming.
 - Delivered courses in Haskell for Logic and Discrete Mathematics.
 
-**Backend Developer @ SHOWX (_May 2023 - Present_)**
+**Backend Developer @ SHOWX (_May 2023 - Feb 2024_)**
 
 - Leading the gradual migration of data from a NoSQL database to a SQL database.
 - Responsible for designing the database tables, developing functionalities, and deploying them.
