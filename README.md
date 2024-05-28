@@ -1,4 +1,4 @@
-# Bachelor in Software Engineering
+# Computer Engineer
 
 ## About Me
 
