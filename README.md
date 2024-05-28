@@ -2,14 +2,19 @@
 
 ## About Me
 
-I am a Computer Engineering student at Universidad ORT, currently in the final stages of completing my thesis titled "Analysis, Evaluation and Improvement of Active Regular Inference Algorithms for Neural Sequence Acceptors". Simultaneously, I hold the position of an Artificial Intelligence lecturer at the same university. With a keen interest in AI and Machine Learning, my goal is to apply my skills and knowledge to create innovative and impactful solutions for real-world problems. I consider myself hardworking and maintain a spirit of daily self-improvement, striving to enhance my capabilities consistently.
+I am a Computer Engineer with a thesis titled "Analysis, Evaluation and Improvement of Active Regular Inference Algorithms for Neural Sequence Acceptors". Simultaneously, I hold the position of an Artificial Intelligence lecturer at the same university. With a keen interest in AI and Machine Learning, my goal is to apply my skills and knowledge to create innovative and impactful solutions for real-world problems. I consider myself hardworking and maintain a spirit of daily self-improvement, striving to enhance my capabilities consistently.
 
 ## Education
 
-- B.S., Computer Engineering student | Universidad ORT Uruguay 
+- B.S., Computer Engineering | Universidad ORT Uruguay  (_May 2024_)
 - B.S., Software Engineering | Universidad ORT Uruguay (_Mar 2023_)
 
 ## Work Experience
+
+**Founding Engineer @ Construction Cycles (_Mar 2024 - Present_)**
+
+- Development of both the backend and frontend of the web application.
+- Technologies used include Golang, PocketBase, Flutter and Svelte.
 
 **Lecturer @ Universidad ORT Uruguay (_Aug 2021 - Present_)**
 
