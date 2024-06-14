@@ -11,11 +11,6 @@ I am a Computer Engineer with a thesis titled "Analysis, Evaluation and Improvem
 
 ## Work Experience
 
-**Founding Engineer @ Construction Cycles (_Mar 2024 - Present_)**
-
-- Development of both the backend and frontend of the web application.
-- Technologies used include Golang, PocketBase, Flutter and Svelte.
-
 **Lecturer @ Universidad ORT Uruguay (_Aug 2021 - Present_)**
 
 - Lead weekly Artificial Intelligence practical courses utilizing Python to teach practical lessons on subjects like Q-learning and Minimax.
@@ -50,4 +45,5 @@ Its main goal is to provide implementations for the structures needed for workin
 
 ## Publications
 
-1. Franz Mayr, Sergio Yovine, Matías Carrasco, Alejo Garat, Martín Iturbide, Juan da Silva, and Federico Vilensky. "Results of Neural-Checker Toolbox in Taysir 2023 Competition," in Proceedings of 16th edition of the International Conference on Grammatical Inference, eds. François Coste, Faissal Ouardi, and Guillaume Rabusseau, vol. 217, pp. 295-298, PMLR, Jul 10-13, 2023. https://proceedings.mlr.press/v217/mayr23b.html. 
+1. Matías Carrasco, Franz Mayr, Sergio Yovine, Johny Kidd, Martín Iturbide, Juan Pedro da Silva, and Alejo Garat. "Analyzing constrained LLM through PDFA-learning," arXiv preprint arXiv:2406.08269, 2024. Formal Languages and Automata Theory (cs.FL). https://arxiv.org/abs/2406.08269.
+2. Franz Mayr, Sergio Yovine, Matías Carrasco, Alejo Garat, Martín Iturbide, Juan da Silva, and Federico Vilensky. "Results of Neural-Checker Toolbox in Taysir 2023 Competition," in Proceedings of 16th edition of the International Conference on Grammatical Inference, eds. François Coste, Faissal Ouardi, and Guillaume Rabusseau, vol. 217, pp. 295-298, PMLR, Jul 10-13, 2023. https://proceedings.mlr.press/v217/mayr23b.html. 
