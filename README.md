@@ -11,11 +11,27 @@ I am a Computer Engineer with a thesis titled "Analysis, Evaluation and Improvem
 
 ## Work Experience
 
+** Software Engineer @ Sagitta (_Nov 2024 - Present_)**
+
+- I co-develop AI-driven solutions across various projects.
+- My responsibilities include analyzing, designing, developing, and maintaining systems that integrate large language models, machine learning techniques, and data processing frameworks to optimize business processes and enhance operational efficiency.
+
+** AI Researcher @ Universidad ORT Uruguay (_May 2024 - Present_)**
+
+- Involved in projects focused on improving the reliability of intelligent systems.
+- Working on verifying intelligent systems with learning components.
+- Developing tools to verify Large Language Models in industrial applications.
+
 **Lecturer @ Universidad ORT Uruguay (_Aug 2021 - Present_)**
 
 - Lead weekly Artificial Intelligence practical courses utilizing Python to teach practical lessons on subjects like Q-learning and Minimax.
 - Instructed students in Data Structures and Algorithms courses, covering both theoretical analysis and C++ programming.
 - Delivered courses in Haskell for Logic and Discrete Mathematics.
+
+**Founding Engineer @ Stealh Startup (_Mar 2024 - Oct 2024_)**
+
+- Responsible for the development of both the backend and frontend of the web application.
+- Designing and implementation of solutions using technologies such as Golang, PocketBase, Flutter, and Svelte.
 
 **Backend Developer @ SHOWX (_May 2023 - Feb 2024_)**
 
